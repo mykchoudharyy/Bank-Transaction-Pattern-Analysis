@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.db-journal
+bank_transactions_backup.db
+server.py
