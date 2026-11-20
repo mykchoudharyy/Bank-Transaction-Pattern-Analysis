@@ -2,6 +2,8 @@
 
 A secure, multi-bank analytics workspace built with **Python, SQLite, Pandas, Plotly and Streamlit**. Bank staff sign in to their own bank's workspace, explore payment patterns, catch suspicious transactions, onboard customers and post live payments, all backed by a normalised SQLite database.
 
+**Live demo:** https://bank-txn.streamlit.app
+
 > Transaction data in this repository is synthetic. No real customer or bank data is used.
 
 ---
